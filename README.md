@@ -14,11 +14,12 @@ This repository holds the source code, pretrained models, and pre-extracted feat
 
 Please cite this work if you find TSP useful for your research.
 ```
-@article{alwassel2020tsp,
+@inproceedings{alwassel_2021_tsp,
   title={TSP: Temporally-Sensitive Pretraining of Video Encoders for Localization Tasks},
   author={Alwassel, Humam and Giancola, Silvio and Ghanem, Bernard},
-  journal={arXiv preprint arXiv:2011.11479},
-  year={2020}
+  booktitle={Proceedings of the IEEE/CVF International
+             Conference on Computer Vision (ICCV) Workshops},
+  year={2021}
 }
 ```
 
